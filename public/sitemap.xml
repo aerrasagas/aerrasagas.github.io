@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/autres/a-propos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/autres/contact/</loc>
+  </url><url>
     <loc>http://localhost:1313/encyclop%C3%A9die/a%C3%ABrra/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/autres/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/continent/</loc>
   </url><url>

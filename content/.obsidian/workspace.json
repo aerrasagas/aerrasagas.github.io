@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autres/A propos.md",
+                "file": "encyclopedie/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A propos"
+              "title": "_index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autres/A propos.md",
+                "file": "encyclopedie/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour A propos"
+              "title": "Rétrolien pour _index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autres/A propos.md",
+                "file": "encyclopedie/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de A propos"
+              "title": "Liens sortants de _index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autres/A propos.md",
+                "file": "encyclopedie/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de A propos"
+              "title": "Plan de _index"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "f8aacd51176911a4",
   "lastOpenFiles": [
-    "Autres/Contact.md",
-    "Autres/A propos.md",
-    "Encyclopédie/Aërra.md"
+    "recits/_index.md",
+    "encyclopedie/_index.md",
+    "encyclopedie/Aërra.md",
+    "_index.md",
+    "A propos.md",
+    "Contact.md"
   ]
 }
