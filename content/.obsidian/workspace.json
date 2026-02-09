@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encyclopédie/Aërra.md",
+                "file": "Autres/A propos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aërra"
+              "title": "A propos"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encyclopédie/Aërra.md",
+                "file": "Autres/A propos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Aërra"
+              "title": "Rétrolien pour A propos"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encyclopédie/Aërra.md",
+                "file": "Autres/A propos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Aërra"
+              "title": "Liens sortants de A propos"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encyclopédie/Aërra.md",
+                "file": "Autres/A propos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Aërra"
+              "title": "Plan de A propos"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "f8aacd51176911a4",
   "lastOpenFiles": [
+    "Autres/Contact.md",
+    "Autres/A propos.md",
     "Encyclopédie/Aërra.md"
   ]
 }
