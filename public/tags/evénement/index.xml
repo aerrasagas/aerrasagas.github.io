@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Evénement on Aërra Sagas</title>
-    <link>http://localhost:1313/tags/ev%C3%A9nement/</link>
+    <link>https://aerrasagas.github.io/tags/ev%C3%A9nement/</link>
     <description>Recent content in Evénement on Aërra Sagas</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>fr-fr</language>
-    <atom:link href="http://localhost:1313/tags/ev%C3%A9nement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aerrasagas.github.io/tags/ev%C3%A9nement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La Guerre Civile</title>
+      <link>https://aerrasagas.github.io/encyclopedie/evenements/guerre-civile/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/encyclopedie/evenements/guerre-civile/</guid>
+      <description>&lt;p&gt;La Guerre Civile désigne le plus grand conflit militaire ayant secoué &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/a%C3%ABrra/&#34;&gt;Aërra&lt;/a&gt; depuis l’&lt;a href=&#34;&#34;&gt;Unification&lt;/a&gt;. Comme son nom l’indique, il s’agit d’une guerre interne au &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/etats/kjarrdom/&#34;&gt;Kjarrdom&lt;/a&gt;, au cours de laquelle plusieurs territoires se sont soulevés dans le but de mettre fin à l’autorité impériale.&lt;/p&gt;
+&lt;p&gt;Le conflit dure onze ans, de 1251 à 1262, et s’achève par un compromis entre le &lt;a href=&#34;&#34;&gt;Kjarr&lt;/a&gt; &lt;a href=&#34;&#34;&gt;Kanlor Heimer&lt;/a&gt; et les insurgés. Par cet accord, les territoires rebelles obtiennent leur indépendance, tandis que le &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/etats/kjarrdom/&#34;&gt;Kjarrdom&lt;/a&gt; conserve son emprise sur le reste du continent.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>L&#39;Unification</title>
-      <link>http://localhost:1313/encyclopedie/evenements/unification/</link>
+      <link>https://aerrasagas.github.io/encyclopedie/evenements/unification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/encyclopedie/evenements/unification/</guid>
-      <description>&lt;p&gt;L&amp;rsquo;Unification désigne la période où &lt;a href=&#34;http://localhost:1313/encyclopedie/personnages/frik-heimer/&#34;&gt;Frik Heimer&lt;/a&gt; uni les clans &lt;a href=&#34;&#34;&gt;Nordiens&lt;/a&gt; d&amp;rsquo;&lt;a href=&#34;&#34;&gt;Asmodor&lt;/a&gt; puis l&amp;rsquo;ensemble du continent d&amp;rsquo;&lt;a href=&#34;http://localhost:1313/encyclopedie/geograhie/a%C3%ABrra/&#34;&gt;Aërra&lt;/a&gt;. Tout cela est possible grâce à une &lt;a href=&#34;&#34;&gt;Pierre Divine&lt;/a&gt; découvert par &lt;a href=&#34;http://localhost:1313/encyclopedie/personnages/frik-heimer/&#34;&gt;Frik&lt;/a&gt; lors d&amp;rsquo;une expédition et à son ascendance divine lui donnant une forte affinité à l&amp;rsquo;&lt;a href=&#34;&#34;&gt;Energie Divine&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Suite à l&amp;rsquo;Unification, &lt;a href=&#34;http://localhost:1313/encyclopedie/personnages/frik-heimer/&#34;&gt;Frik&lt;/a&gt; fonde le &lt;a href=&#34;http://localhost:1313/encyclopedie/geograhie/etats/kjarrdom/&#34;&gt;Kjarrdom&lt;/a&gt;, devient son premier &lt;a href=&#34;&#34;&gt;Kjarr&lt;/a&gt; et démarre l&amp;rsquo;&lt;a href=&#34;&#34;&gt;Ere Impériale&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://aerrasagas.github.io/encyclopedie/evenements/unification/</guid>
+      <description>&lt;p&gt;L&amp;rsquo;Unification désigne la période où &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/personnages/frik-heimer/&#34;&gt;Frik Heimer&lt;/a&gt; uni les clans &lt;a href=&#34;&#34;&gt;Nordiens&lt;/a&gt; d&amp;rsquo;&lt;a href=&#34;&#34;&gt;Asmodor&lt;/a&gt; puis l&amp;rsquo;ensemble du continent d&amp;rsquo;&lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/a%C3%ABrra/&#34;&gt;Aërra&lt;/a&gt;. Tout cela est possible grâce à une &lt;a href=&#34;&#34;&gt;Pierre Divine&lt;/a&gt; découvert par &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/personnages/frik-heimer/&#34;&gt;Frik&lt;/a&gt; lors d&amp;rsquo;une expédition et à son ascendance divine lui donnant une forte affinité à l&amp;rsquo;&lt;a href=&#34;&#34;&gt;Energie Divine&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Suite à l&amp;rsquo;Unification, &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/personnages/frik-heimer/&#34;&gt;Frik&lt;/a&gt; fonde le &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/etats/kjarrdom/&#34;&gt;Kjarrdom&lt;/a&gt;, devient son premier &lt;a href=&#34;&#34;&gt;Kjarr&lt;/a&gt; et démarre l&amp;rsquo;&lt;a href=&#34;&#34;&gt;Ere Impériale&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

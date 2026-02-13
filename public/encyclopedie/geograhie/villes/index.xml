@@ -2,10 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Villes on Aërra Sagas</title>
-    <link>http://localhost:1313/encyclopedie/geograhie/villes/</link>
+    <link>https://aerrasagas.github.io/encyclopedie/geograhie/villes/</link>
     <description>Recent content in Villes on Aërra Sagas</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>fr-fr</language>
-    <atom:link href="http://localhost:1313/encyclopedie/geograhie/villes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aerrasagas.github.io/encyclopedie/geograhie/villes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erhald</title>
+      <link>https://aerrasagas.github.io/encyclopedie/geograhie/villes/erhald/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/encyclopedie/geograhie/villes/erhald/</guid>
+      <description>&lt;p&gt;Erhald est une ville de plusieurs milliers d&amp;rsquo;habitants situé sur le flanc ouest des &lt;a href=&#34;&#34;&gt;Monts Ecarlates&lt;/a&gt;. Elle est connu principalement pour ses activités minières et à prospérer en évinçant le rôle de ville la plus importante de la région à &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/villes/varn%C3%A8s/&#34;&gt;Varnès&lt;/a&gt; suite à la &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/evenements/guerre-civile/&#34;&gt;Guerre Civile&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frikhamn</title>
+      <link>https://aerrasagas.github.io/encyclopedie/geograhie/villes/frikhamn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/encyclopedie/geograhie/villes/frikhamn/</guid>
+      <description>&lt;p&gt;La plus grande ville du monde et capitale du &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/etats/kjarrdom/&#34;&gt;Kjarrdom&lt;/a&gt;, celle-ci a été fondé par &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/Frik-Heimer&#34;&gt;Frik Heimer&lt;/a&gt; suite à l&amp;rsquo;Unification. Elle regroupe l&amp;rsquo;ensemble des infrastructures impériales.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Varnès</title>
+      <link>https://aerrasagas.github.io/encyclopedie/geograhie/villes/varn%C3%A8s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/encyclopedie/geograhie/villes/varn%C3%A8s/</guid>
+      <description>&lt;p&gt;Varnès est un hameau d&amp;rsquo;une centaine d&amp;rsquo;habitants se situant à l&amp;rsquo;ouest des &lt;a href=&#34;&#34;&gt;Monts Ecarlates&lt;/a&gt; près de la frontières des &lt;a href=&#34;&#34;&gt;Terres de Poctir&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Autrefois prospère, Varnès était un bourg de plusieurs milliers d’âmes. Sa richesse provenait de sa position stratégique : elle constituait une étape incontournable pour rejoindre par l&amp;rsquo;ouest les régions qui forment aujourd’hui &lt;a href=&#34;&#34;&gt;Poctir&lt;/a&gt;.
+La ville fut l’une des premières attaquées lors de la &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/evenements/guerre-civile/&#34;&gt;Guerre Civile&lt;/a&gt;, devenant le théâtre de multiples affrontements, principalement entre les armées du duché d’&lt;a href=&#34;&#34;&gt;Arlois&lt;/a&gt; et les forces poctiriennes. Ravagée par les combats, elle ne s’en est jamais totalement relevée. Toutefois, depuis le retour de la paix en &lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/a%C3%ABrra/&#34;&gt;Aërra&lt;/a&gt;, Varnès entame une lente reconstruction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vhal-Torun</title>
+      <link>https://aerrasagas.github.io/encyclopedie/geograhie/villes/vhal-torun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/encyclopedie/geograhie/villes/vhal-torun/</guid>
+      <description>&lt;p&gt;Cité antique ayant été détruite lors de l&amp;rsquo;&lt;a href=&#34;&#34;&gt;Unification&lt;/a&gt;. Celle-ci fut érigé par &lt;a href=&#34;&#34;&gt;Kaorun&lt;/a&gt;, un &lt;a href=&#34;&#34;&gt;ancien dieu&lt;/a&gt;, après la &lt;a href=&#34;&#34;&gt;Guerre Divine&lt;/a&gt;. Ce dernier continu a entretenir inlassablement le foyer de la cité.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

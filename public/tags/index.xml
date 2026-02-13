@@ -44,10 +44,31 @@
       <description></description>
     </item>
     <item>
+      <title>Evénement</title>
+      <link>https://aerrasagas.github.io/tags/ev%C3%A9nement/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/ev%C3%A9nement/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Texte</title>
       <link>https://aerrasagas.github.io/tags/texte/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://aerrasagas.github.io/tags/texte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personnage</title>
+      <link>https://aerrasagas.github.io/tags/personnage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/personnage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ville</title>
+      <link>https://aerrasagas.github.io/tags/ville/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/ville/</guid>
       <description></description>
     </item>
   </channel>
