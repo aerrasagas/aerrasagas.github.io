@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aërra Sagas</title>
+    <link>https://aerrasagas.github.io/</link>
+    <description>Recent content on Aërra Sagas</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aerrasagas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carnet 1 - Bienvenue sur le blog d&#39;Aërra Sagas !</title>
+      <link>https://aerrasagas.github.io/carnets/carnet-1---bienvenue-sur-le-blog-da%C3%ABrra-sagas/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/carnets/carnet-1---bienvenue-sur-le-blog-da%C3%ABrra-sagas/</guid>
+      <description>&lt;p&gt;Salut et bienvenue dans ce premier carnet !&lt;/p&gt;
+&lt;p&gt;Tout d’abord, laissez-moi me présenter. Je suis Raphael Lemaire, alias &amp;ldquo;Darkizai&amp;rdquo;, praticien et passionné de JDR depuis une quinzaine d’années. À travers ces carnets, je partagerai mes réflexions, mes doutes, mes objectifs et l’évolution d’Aërra Sagas.&lt;/p&gt;
+&lt;p&gt;Mais qu’est-ce qu’Aërra Sagas, ou les Sagas d’Aërra en français ?&lt;br&gt;
+C’est une idée qui m’est venue il y a trois ou quatre ans, à un moment d’impasse. J’avais une campagne en tête que je souhaitais écrire et surtout faire jouer. Le problème ? Je ne trouvais aucun univers capable d’accueillir mon récit sans que je doive en tordre le lore au point de le dénaturer. La solution s’est alors imposée d’elle-même : si aucun univers ne convenait, autant créer le mien.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aërra</title>
+      <link>https://aerrasagas.github.io/encyclopedie/geograhie/a%C3%ABrra/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/encyclopedie/geograhie/a%C3%ABrra/</guid>
+      <description>&lt;p&gt;Aërra est un continent d&amp;rsquo;environ cinq millions de kilomètres carrés, en forme de croissant de lune dont l’ouverture est orientée vers le nord. Il est né de la volonté de Lumière, l’un des Primordiaux, de laisser aux créatures pensantes la liberté d’accéder à l’Énergie Divine. Pour ce faire, il a parsemé le continent de structures (des puits) déversant cette énergie, une particularité qui a profondément façonné son histoire, ses peuples et ses paysages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kjarrdom</title>
+      <link>https://aerrasagas.github.io/encyclopedie/geograhie/etats/kjarrdom/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/encyclopedie/geograhie/etats/kjarrdom/</guid>
+      <description>&lt;p&gt;Le Kjarrdom est un empire fondé par Frik Heimer à l’issue de l’Unification d’&lt;a href=&#34;https://aerrasagas.github.io/encyclopedie/geograhie/a%C3%ABrra/&#34;&gt;Aërra&lt;/a&gt;, période durant laquelle il soumet l’ensemble des peuples du continent. À la suite de cette campagne, il adopte le titre de Kjarr et son domaine prend le nom de Kjarrdom&lt;/p&gt;
+&lt;p&gt;C’est une autocratie où le Kjarr règne avec un pouvoir absolu : il nomme les gouverneurs, les conseillers, et ses décisions prévalent sur toutes les autres. Le pouvoir est extrêmement centralisé sur la capitale, Frikhamn, située dans le Frikland, toutes les institutions impériales y ont leur siège.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>L&#39;attente éternelle</title>
+      <link>https://aerrasagas.github.io/recits/lattente-%C3%A9ternelle/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/recits/lattente-%C3%A9ternelle/</guid>
+      <description>Certains lieux continuent de fonctionner longtemps après avoir été oubliés.</description>
+    </item>
+    <item>
+      <title>Pèlerinage d&#39;amour</title>
+      <link>https://aerrasagas.github.io/recits/p%C3%A8lerinage-damour/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/recits/p%C3%A8lerinage-damour/</guid>
+      <description>Un homme semble philosopher devant la sépulture d&amp;rsquo;un être cher.</description>
+    </item>
+    <item>
+      <title>A propos</title>
+      <link>https://aerrasagas.github.io/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/a-propos/</guid>
+      <description>&lt;p&gt;Pensé initialement comme le théâtre d’une campagne de jeu de rôle, &lt;strong&gt;Aërra&lt;/strong&gt; est devenu, petit à petit, un univers allant bien au-delà.&lt;/p&gt;
+&lt;p&gt;En prenant de l’ampleur, il est devenu évident qu’il était temps de le partager à travers ce blog. Venez découvrir ce monde de fantasy : ses peuples, sa magie, ses dieux… et surtout ses histoires.&lt;/p&gt;
+&lt;p&gt;Je rassemble ici mes écrits, qu’il s’agisse de récits, de scénarios ou de campagnes, ainsi que mes réflexions et une encyclopédie destinée à éclairer cet univers.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

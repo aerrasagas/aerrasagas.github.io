@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Aërra Sagas</title>
+    <link>https://aerrasagas.github.io/tags/</link>
+    <description>Recent content in Tags on Aërra Sagas</description>
+    <generator>Hugo -- 0.155.2</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aerrasagas.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carnets</title>
+      <link>https://aerrasagas.github.io/tags/carnets/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/carnets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Continent</title>
+      <link>https://aerrasagas.github.io/tags/continent/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/continent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Etat</title>
+      <link>https://aerrasagas.github.io/tags/etat/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/etat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Géographie</title>
+      <link>https://aerrasagas.github.io/tags/g%C3%A9ographie/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/g%C3%A9ographie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impérial</title>
+      <link>https://aerrasagas.github.io/tags/imp%C3%A9rial/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/imp%C3%A9rial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Texte</title>
+      <link>https://aerrasagas.github.io/tags/texte/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aerrasagas.github.io/tags/texte/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
