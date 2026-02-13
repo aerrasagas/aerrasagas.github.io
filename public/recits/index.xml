@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Récits on Aërra Sagas</title>
-    <link>http://localhost:1313/recits/</link>
+    <link>https://aerrasagas.github.io/recits/</link>
     <description>Recent content in Récits on Aërra Sagas</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/recits/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aerrasagas.github.io/recits/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;attente éternelle</title>
-      <link>http://localhost:1313/recits/lattente-%C3%A9ternelle/</link>
+      <link>https://aerrasagas.github.io/recits/lattente-%C3%A9ternelle/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recits/lattente-%C3%A9ternelle/</guid>
+      <guid>https://aerrasagas.github.io/recits/lattente-%C3%A9ternelle/</guid>
       <description>Certains lieux continuent de fonctionner longtemps après avoir été oubliés.</description>
     </item>
     <item>
       <title>Pèlerinage d&#39;amour</title>
-      <link>http://localhost:1313/recits/p%C3%A8lerinage-damour/</link>
+      <link>https://aerrasagas.github.io/recits/p%C3%A8lerinage-damour/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/recits/p%C3%A8lerinage-damour/</guid>
+      <guid>https://aerrasagas.github.io/recits/p%C3%A8lerinage-damour/</guid>
       <description>Un homme semble philosopher devant la sépulture d&amp;rsquo;un être cher.</description>
     </item>
   </channel>
