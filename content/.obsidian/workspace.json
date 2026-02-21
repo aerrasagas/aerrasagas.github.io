@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carnets/Carnet 1 - Bienvenue sur le blog d'Aërra Sagas.md",
+                "file": "recits/La Lettre de Marque/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carnet 1 - Bienvenue sur le blog d'Aërra Sagas"
+              "title": "_index"
             }
           }
         ]
@@ -185,8 +185,14 @@
   },
   "active": "f8aacd51176911a4",
   "lastOpenFiles": [
-    "A propos.md",
+    "recits/La Lettre de Marque/La Lettre de Marque - chapitre 1.md",
+    "recits/La Lettre de Marque/_index.md",
+    "encyclopedie/evenements/_index.md",
+    "recits/_index.md",
+    "recits/La Lettre de Marque",
+    "recits/Pèlerinage d'amour.md",
     "carnets/Carnet 1 - Bienvenue sur le blog d'Aërra Sagas.md",
+    "A propos.md",
     "recits/L'attente éternelle.md",
     "encyclopedie/geograhie/etats/Kjarrdom.md",
     "images/carte-aerra.png",
@@ -197,7 +203,6 @@
     "encyclopedie/personnages/_index.md",
     "encyclopedie/geograhie/villes/_index.md",
     "encyclopedie/geograhie/etats/_index.md",
-    "encyclopedie/evenements/_index.md",
     "encyclopedie/personnages/Miyotsu Tatsumori.md",
     "encyclopedie/personnages/Frik Heimer.md",
     "encyclopedie/geograhie/villes/Vhal-Torun.md",
@@ -206,7 +211,6 @@
     "encyclopedie/geograhie/villes/Erhald.md",
     "encyclopedie/evenements/Unification.md",
     "encyclopedie/evenements/Guerre Civile.md",
-    "recits/Pèlerinage d'amour.md",
     "carnets/_index.md",
     "carnets/Nouveau Document texte.txt",
     "carnets",
@@ -222,10 +226,6 @@
     "encyclopedie/geograhie/villes/Frikhamn 1.md",
     "encyclopedie/geograhie/villes/frikhamn 1.md",
     "encyclopedie/geograhie/etats",
-    "encyclopedie/geograhie/villes",
-    "encyclopedie/geograhie/_index.md",
-    "encyclopedie/geograhie",
-    "encyclopedie/_index.md",
-    "Frik Heimer.md"
+    "encyclopedie/geograhie/villes"
   ]
 }
