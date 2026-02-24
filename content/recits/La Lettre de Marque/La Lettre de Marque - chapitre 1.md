@@ -4,7 +4,7 @@ tags:
   - Texte
 type: récits
 date: 2026-02-21
-summary: Un jeune Brevtheng découvre son affection jusqu'au jour où il tombe sur un courrier pas comme les autres.
+summary: Un jeune Brevtheng découvre son affectation jusqu'au jour où il tombe sur un courrier pas comme les autres.
 draft: "false"
 ---
 "Sais-tu sur quoi repose l'unité du Kjarrdom, petit ? Sur la Brevhald ! Derrière ce nom se cache aucune confrérie de guerriers, de mages ou de religieux mais des messagers ! Des gens comme nous qui parcourront tout le continent pour transmettre les messages, les ordres et les directives. Sans nous le Kjarr ne peut diriger ses troupes, sans nous les lois ne seraient jamais appliquées au-delà de la capitale, sans nous l'Empire aurait sombré dans le chaos depuis longtemps.... Soit fier d'être Brevtheng, tu tiens l'un des rôles les plus important !"
