@@ -1,4 +1,3 @@
 ---
 title: Villes
-draft: "false"
 ---
