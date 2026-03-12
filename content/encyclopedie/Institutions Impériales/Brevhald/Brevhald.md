@@ -4,7 +4,7 @@ tags:
   - Impérial
   - Institution
 type: encyclopédie
-date: 0006-03-11
+date: 2026-03-11
 draft: "false"
 ---
 # Résumé
